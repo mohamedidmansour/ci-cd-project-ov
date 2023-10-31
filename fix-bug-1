@@ -4,3 +4,8 @@ usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]       
            [--super-prefix=<path>] [--config-env=<name>=<envvar>]
            <command> [<args>]
+
+
+From branch fix-bug-1
+
+OK it's fine :)
